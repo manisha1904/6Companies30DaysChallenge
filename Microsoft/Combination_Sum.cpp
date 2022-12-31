@@ -1,6 +1,8 @@
-Problem Link - leetcode.com/problems/combination-sum-iii/description/
+Problem Link - https://leetcode.com/problems/combination-sum-iii/description/
 
-vector<vector<int>>ans;
+class Solution {
+public:
+    vector<vector<int>>ans;
     int sum(vector<int>&v){
         int s=0;
         for(auto& x:v)
@@ -25,3 +27,4 @@ vector<vector<int>>ans;
         solve(k,n,temp,1);
         return ans;
     }
+};
