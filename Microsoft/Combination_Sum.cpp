@@ -1,4 +1,4 @@
-Problem Link - https://leetcode.com/problems/combination-sum-iii/description/
+Problem Link - leetcode.com/problems/combination-sum-iii/description/
 
 class Solution {
 public:
