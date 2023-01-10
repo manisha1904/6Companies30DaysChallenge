@@ -42,5 +42,15 @@ Problems List - https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50Hyg
 
 ![Screenshot (161)](https://user-images.githubusercontent.com/68684840/210505665-2227edb6-b96c-4938-9ada-4892ab98f07f.png)
 
+# 3. Challenge Company-2 Goldman Sachs Completed
+
+Problems List - https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/preview?pru=AAABhZAT-Vs*uERzkRcdrNyapS_RVt0XsA
+
+![Screenshot (163)](https://user-images.githubusercontent.com/68684840/211479171-0b635d3b-56e5-4d16-aac9-f32d0eb1d41e.png)
+
+
+
+
+
 
 
