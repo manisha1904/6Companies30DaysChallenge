@@ -48,18 +48,8 @@ Problems List - https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50Hyg
 
 ![Screenshot (163)](https://user-images.githubusercontent.com/68684840/211479171-0b635d3b-56e5-4d16-aac9-f32d0eb1d41e.png)
 
-# 4. Challenge Company-2 Goldman Sachs Completed
+# 4. Challenge Company-3 Adobe Completed
 
-Problems List - https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/preview?pru=
+Problems List - https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/preview?pru=AAABhZAT-Vs*uERzkRcdrNyapS_RVt0XsA
 
-![Screenshot (167)](https://user-images.githubusercontent.com/68684840/212536596-94da780b-2293-4ac8-a631-254ee93d6e89.png)
-AAABhZAT-Vs*uERzkRcdrNyapS_RVt0XsA
-
-
-
-
-
-
-
-
-
+![Screenshot (167)](https://user-images.githubusercontent.com/68684840/212536656-15bc2952-90db-4f87-aa4d-757821bf251b.png)
