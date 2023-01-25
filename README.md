@@ -59,3 +59,9 @@ Problems List - https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50Hyg
 Problems List - https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/preview?pru=AAABhZAT-Vs*uERzkRcdrNyapS_RVt0XsA
 
 ![Screenshot (170)](https://user-images.githubusercontent.com/68684840/213614564-f49b9284-d1d1-4a7b-8382-4f7c644935ce.png)
+
+# 6. Challenge Company-5 Google Completed
+
+Problems List - https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/preview?pru=AAABhZAT-Vs*uERzkRcdrNyapS_RVt0XsA
+
+![Screenshot (174)](https://user-images.githubusercontent.com/68684840/214588348-a0afbe6d-3612-4876-8043-3685b64f8ee5.png)
