@@ -71,3 +71,7 @@ Problems List - https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50Hyg
 Problems List - https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/preview?pru=AAABhZAT-Vs*uERzkRcdrNyapS_RVt0XsA
 
 ![Screenshot (176)](https://user-images.githubusercontent.com/68684840/215402627-176f5cd1-c08a-4d69-93cf-99572b464419.png)
+
+# 8. Linkedin Final Experience Post
+
+![Screenshot (182)](https://user-images.githubusercontent.com/68684840/219875984-5c7a4796-7a1c-4d5c-8a99-4202f234ec7e.png)
